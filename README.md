@@ -6,7 +6,7 @@ According to the [Fraser Institute](https://www.fraserinstitute.org/), economic 
 
 ## Measurement of Economic Freedom of the World (EFW)
 
-In the report published by the Fraser Institute, the EFW is composed of five areas, which include (1) Size of Government, (2) Regulation, (3) Sound Money, (4) Freedom to Trade Internationally, and finally (5) Legal System and Property Rights. For more detailed descriptions of the features, please visit [this page](phttps://www.fraserinstitute.org/economic-freedom/approach]. 
+In the report published by the Fraser Institute, the EFW is composed of five areas, which include (1) Size of Government, (2) Regulation, (3) Sound Money, (4) Freedom to Trade Internationally, and finally (5) Legal System and Property Rights. For more detailed descriptions of the features, please visit [this page](https://www.fraserinstitute.org/economic-freedom/approach]. 
 
 ## About the Dataset
 

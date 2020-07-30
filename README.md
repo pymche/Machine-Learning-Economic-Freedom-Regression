@@ -1,5 +1,7 @@
 # Data Science Project: Investigation on Economic Freedom of the World with Data Analysis and Linear Regression
 
+[Click here for full report](https://github.com/pymche/Data-Science-Economic-Freedom/blob/master/Economic%20Freedom%20Data%20Analysis.ipynb)
+
 ## What is Economic Freedom and why is it important?
 
 According to the [Fraser Institute](https://www.fraserinstitute.org/), economic freedom consists of 'personal choice, voluntary exchange coordinated by markets, freedom to enter and compete in markets, and protection of persons and their property from aggression by others'. Economic Freedom of the World (EFW) suggests that the higher the level of economic freedom countries possess, the more likely they experience lower levels of poverty, higher levels of income and savings, more business and job opportunities, as well as higher literacy rates and life expectancy.

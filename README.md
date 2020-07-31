@@ -1,6 +1,6 @@
 # Data Science Project: Investigation on Economic Freedom of the World with Data Analysis and Linear Regression
 
-[Click here for full report](https://github.com/pymche/Data-Science-Economic-Freedom/blob/master/Economic%20Freedom%20Data%20Analysis.ipynb)
+[Navigate to report in Jupyter Notebook](https://github.com/pymche/Data-Science-Economic-Freedom/blob/master/Economic%20Freedom%20Data%20Analysis.ipynb)
 
 ## What is Economic Freedom and why is it important?
 

@@ -25,3 +25,6 @@ In this report, the following will be conducted: Data cleaning, exploratory data
 * Sklearn
 * Seaborn
 * Matplotlib
+
+
+First commit: 31st July, 2020
